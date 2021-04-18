@@ -52,6 +52,6 @@ The application splitted on 3 parts:
 			- InputDataService. Read inputs from files.
 			- ParticipationService. The participation percentage and total participant counts of the survey.
 			- ResponseStatisticService. The average for each rating question
-	- View. Ouyput in console.
+	- View. Output in console.
 	   
 The implementation is easy to extend functionalities and add new rules, commands. 
